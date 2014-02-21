@@ -3,7 +3,9 @@
     "iptables",
     "yum",
     "git",
-    "base::default",
-    "base::install"
+    "rbenv::default",
+    "rbenv::install",
+    "bundler",
+    "qt4::default"
   ]
 }
